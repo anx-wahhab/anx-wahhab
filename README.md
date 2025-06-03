@@ -8,10 +8,7 @@ I am a data scientist with an ambition to uncover secrets of mathematics.
 
 * 🌍  I'm based in Gujranwala, Pakistan
 * ✉️  You can contact me at [wahab.khaddim@gmail.com](mailto:wahab.khaddim@gmail.com)
-* 🚀  I'm currently working on [Research](http://research.com)
-* 🧠  I'm learning Research
 * 🤝  I'm open to collaborating on Projects
-* ⚡  nothing lasts forever
 
 ### Skills
 
